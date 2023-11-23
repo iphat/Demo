@@ -1,2 +1,2 @@
 # Demo
- Learning from  tutorial class 
+ Learned from  tutorial class 
